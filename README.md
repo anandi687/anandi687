@@ -1,19 +1,23 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:EE7752,100:23A6D5&height=180&section=header&text=Welcome%20to%20Anandi's%20GitHub!&fontSize=30&fontColor=ffffff)
 
 
-🎓 B.Sc. IT Student at Swaminarayan University  
-💻 Currently learning Frontend Development at Felix IT  
-🚀 Passionate about creating modern, responsive web designs  
+## 👋 Hi there! I'm Anandi  
 
-## 🛠️ Tech Stack
-- Languages: HTML, CSS, JavaScript  
-- Frameworks: Tailwind CSS  
-- Tools: VS Code, Git, GitHub, Figma  
+🎓 I'm currently learning **Frontend Development** at Felix ITs.  
+💻 I love building beautiful and responsive websites using **HTML, CSS, JavaScript, and Tailwind CSS**.  
+🌱 Currently exploring **React.js** and UI/UX Design.  
+⚡ Fun fact: I enjoy learning new design ideas and improving every day!
 
-## 📈 GitHub Stats
-![Anandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandi687&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandi687&layout=compact&theme=radical)
+---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YourLinkedInURL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](YourPortfolioURL)
+### 🛠️ My Skills  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 🌐 Connect with me  
+[![GitHub](https://img.shields.io/badge/GitHub-Anandi687-black?style=for-the-badge&logo=github)](https://github.com/anandi687)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anandi-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
