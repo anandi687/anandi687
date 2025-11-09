@@ -1,4 +1,5 @@
-# Hi there, I'm Anandi 👋
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:EE7752,100:23A6D5&height=180&section=header&text=Welcome%20to%20Anandi's%20GitHub!&fontSize=30&fontColor=ffffff)
+
 
 🎓 B.Sc. IT Student at Swaminarayan University  
 💻 Currently learning Frontend Development at Felix IT  
