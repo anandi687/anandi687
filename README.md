@@ -36,4 +36,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandi687&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+---
+
+<h3 align="center">💖 Thanks for visiting my GitHub profile! </h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anandi687&style=for-the-badge&color=ff69b4" alt="Profile views counter" />
+</p>
+
+<p align="center">
+  <b>“Code. Create. Inspire.”</b> 🚀  
+</p>
+
 
