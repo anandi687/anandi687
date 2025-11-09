@@ -1,8 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:EE7752,100:23A6D5&height=180&section=header&text=Welcome%20to%20Anandi's%20GitHub!&fontSize=30&fontColor=ffffff)
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74C00&center=true&vCenter=true&width=435&lines=Hi+I'm+Anandi+👋;Frontend+Developer+💻;UI%2FUX+Learner+🎨;Open+Source+Explorer+🌍" alt="Typing SVG" />
-</h3>
+
 
 
 
