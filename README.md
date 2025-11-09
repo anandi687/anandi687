@@ -24,3 +24,16 @@
 ### 🌐 Connect with me  
 [![GitHub](https://img.shields.io/badge/GitHub-Anandi687-black?style=for-the-badge&logo=github)](https://github.com/anandi687)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anandi-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anandi687&show_icons=true&theme=radical" alt="Anandi's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandi687&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
