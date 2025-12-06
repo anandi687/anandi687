@@ -6,8 +6,8 @@
 
 ## 👋 Hi there! I'm Anandi  
 
-🎓 I'm currently learning **Frontend Development** at Felix ITs.  
-💻 I love building beautiful and responsive websites using **HTML, CSS, JavaScript, and Tailwind CSS**.  
+🎓 I'm currently learning **Full stack Developer** at Felix ITs.  
+💻 I love building beautiful and responsive websites using **HTML, CSS, JavaScript, and Tailwind CSS much more**.  
 🌱 Currently exploring **React.js** and UI/UX Design.  
 ⚡ Fun fact: I enjoy learning new design ideas and improving every day!
 
